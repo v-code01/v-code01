@@ -34,3 +34,4 @@ in-depth notes on GPU internals, inference, and AI-systems architecture live the
 `rust` · `cuda · ptx · sass` · `go` · `c++` · `tla+` · `kubernetes` · `vllm` · `nccl`
 
 </div>
+
